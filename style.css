@@ -35,8 +35,9 @@ button {
 }
 
 button:active {
-	font-size: 19px;
+	font-size: 19.5px;
 	background: darkgoldenrod;
 	border: solid goldenrod 3px;
+	line-height: 40px;
 }
 
